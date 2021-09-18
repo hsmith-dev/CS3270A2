@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CS3270A2 Smith</string>
+    <string name="btnFrag2">Load Fragment 2</string>\
+    <string name="btnFrag3">Load Fragment 3</string>
+    <string name="btnFrag4">Load Fragment 4</string>
+    <string name="btnSwitch3n4">Switch 3 and 4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentA">FragmentA</string>
+    <string name="fragmentB">FragmentB</string>
+    <string name="fragmentC">FragmentC</string>
+    <string name="fragmentD">FragmentD</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
